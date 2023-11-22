@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Simple Form</string>
+    <string name="SubmitBtn">Submit</string>
+    <string name="EmailPlaceholder">Email</string>
+    <string name="LastnamePlaceholder">Lastname</string>
+    <string name="FirstnamePlaceholder">Firstname</string>
 </resources>
